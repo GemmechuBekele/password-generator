@@ -23,4 +23,4 @@ This project is built using **Python** and utilizes the `random` module.
 3. Run the script using:  
 
    ```sh
-   python password_generator.py
+   python PasswordGenerator.py
